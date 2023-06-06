@@ -1,0 +1,258 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+}
+
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight:900;
+    font-size: 40px;
+    line-height: 75px;
+    position: relative;
+    z-index: 1;
+
+}
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+}
+
+.Rectangle-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #F4F6F5;
+    padding: 0 0 30px 0;
+    margin: 30px 200px 30px 200px;
+    border-radius: 20px;
+    
+}
+
+.image1{
+    position: relative;
+    bottom: -35px;
+    width: 100%;
+}
+
+.store-btn{
+    background-color: #000000;
+    color: #FFFFFF;
+    padding:10px 15px 10px 15px;
+    border-radius: 6px;
+   
+    
+}
+
+
+
+.leaf{
+    max-width: 30%;
+   height: fit-content;
+  
+  
+}
+.rectangle4
+{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+   
+}
+
+.rectangle2{
+    position: absolute;
+    width: 200.79px;
+    height: 50.55px;
+    right: 1000.69px;
+    top: 108.286px;
+    background-color:#FFFFFF;
+    transform: rotate(-2deg);
+}
+
+.rectangle3{
+    position: absolute;
+    width: 230.79px;
+    height: 50.55px;
+    right: 960.69px;
+    top: 258.286px;
+    background-color:#EBD96B;
+    transform: rotate(-2deg);
+}
+
+.celebrations{
+    width: 100%;
+    height: 110px;
+    margin: 0;
+    padding: 0;
+    background:#EBD96B ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.image2{
+    width: 50%;
+}
+
+h4{
+    position: relative;
+    font-family: 'Poppins', sans-serif;
+    font-weight:900;
+    font-size:x-large;
+    z-index: 1;
+    text-align:center;
+   
+}
+
+.new-arrivals{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+text-align: center;
+line-height: 20px;
+padding: 30px;
+}
+
+.leaf1{
+    position: absolute;
+    bottom:35px;
+    width: 95px;
+    transform: rotate(-9deg);
+    
+}
+
+.arrival-cloths{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+margin: 0;
+padding: 0;
+
+}
+
+.arrival-cloths img{
+    width: 60%;
+    
+}
+
+
+.cloth-catago{
+    font-family: 'Poppins', sans-serif;
+    font-weight: normal;
+    font-size: larger;
+}
+
+.arrival-cloths p{
+
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+    font-size: medium;
+    color: #7F7F7F;
+
+}
+
+.arrival-cloths div{
+margin: 0;
+padding: 0;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+
+}
+
+.arrival-cloths-sub{
+    text-align: left;
+   
+}
+
+.offers-img{
+    width: 60%;
+   
+
+}
+
+.offers{
+    display: flex;
+ margin: 0;
+ padding: 0;
+    background-color: #EBCF47;
+}
+
+.offers div{
+    display: flex;
+    flex-direction: column;
+    align-items:self-start;
+    justify-content: center;
+    gap: 10px;
+    
+}
+
+.offers p{
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+    font-size: medium;
+    
+}
+
+.offers div h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight:900;
+    font-size: 70px;
+    position: relative;
+    z-index: 1;
+    line-height: 100px;
+}
+
+span{
+    background-color: #F4F6F5;
+    padding-right: 20px;
+    
+   
+}
+
+.arrival-cloths-1{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 0px;
+    
+
+}
+
+.arrival-cloths-1 img{
+    width: 60%;
+
+}
+
+.arrival-cloths-1 div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0;
+    line-height: 30px;
+    padding: 20px;
+
+}
+
+.arrival-cloths-1 div p{
+
+    font-family: 'Poppins', sans-serif;
+    font-weight:400;
+    font-size: medium;
+    color: #7F7F7F;
+}
+
+.bg-gray-800 {
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+}

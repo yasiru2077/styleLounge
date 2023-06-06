@@ -1,0 +1,51 @@
+.company-logo1{
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.company-logo2{
+    width: 50%;
+  
+}
+
+body{
+    background-color:#EBD96B;
+}
+
+.qoute{
+    font-size: small;
+}
+
+.company-logo3{
+    width: 40%;
+    margin:0 0 0 0;
+}
+
+.auth-logo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.shadow{
+    background-color: #FFE194;
+    
+        --tw-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+        --tw-shadow-colored: 0 4px 6px -1px var(--tw-shadow-color), 0 2px 4px -2px var(--tw-shadow-color);
+        box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+
+}
+
+.main-navbar{
+    background-color: #EBD96B;
+    border-color: #EBD96B;
+    border: none;
+    border-bottom-width: 0;
+    
+}
+
+nav{
+    background-color:#EBD96B;
+}
