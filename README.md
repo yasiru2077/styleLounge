@@ -55,4 +55,11 @@ Before getting started, make sure you have the following software and dependenci
 
    ```sh
    https://github.com/yasiru2077/styleLounge.git
+2. Navigate to the CRM folder:
+   cd crm
+3. Install PHP dependencies using Composer:
+   composer install
+4. Install JavaScript dependencies using NPM:
+   npm install
+
 
