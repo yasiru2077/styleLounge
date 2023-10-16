@@ -13,10 +13,10 @@ this is a crm system for a clothing store
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [CRM System](#crm-system)
-- [Contributing](#contributing)
+- [Technologies Used](#technologies-used)
 - [License](#license)
+- [Documentation](#documentation)
+
 
 ## Introduction
 
