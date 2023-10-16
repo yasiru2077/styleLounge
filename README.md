@@ -1,4 +1,4 @@
-![Group 90 (1)](https://github.com/yasiru2077/styleLounge/assets/96358931/4c89daea-753e-487b-afea-f409fe586317)
+[SssSP2 (2).pdf](https://github.com/yasiru2077/styleLounge/files/12919527/SssSP2.2.pdf)![Group 90 (1)](https://github.com/yasiru2077/styleLounge/assets/96358931/4c89daea-753e-487b-afea-f409fe586317)
 # styleLounge
 this is a crm system for a clothing store
 # E-commerce Clothing Website with Integrated CRM System
@@ -112,6 +112,17 @@ Before getting started, make sure you have the following software and dependenci
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Documentation
+
+- [StyleLounge]([SssSP2 (2).pdf](https://github.com/yasiru2077/styleLounge/files/12919532/SssSP2.2.pdf))
+- [Laravel](https://laravel.com/docs/8.x)
+- [Tailwind CSS](https://tailwindcss.com/docs/installation)
+- [Alpine.js](https://alpinejs.dev/)
+- [jetstream](https://jetstream.laravel.com/introduction.html)
+- [Livewire](https://laravel-livewire.com/docs/2.x/quickstart)
+- [MailTrap](https://mailtrap.io/)
+
 
 
 
