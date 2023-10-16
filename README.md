@@ -33,3 +33,26 @@ This project is a comprehensive e-commerce solution with an integrated Customer 
 - Order management with real-time order status tracking.
 - Customer support with communication history for faster issue resolution.
 - Analytics and reporting capabilities for data-driven decision-making.
+# Project Name
+
+A brief description of your project.
+
+## Prerequisites
+
+Before getting started, make sure you have the following software and dependencies installed on your system:
+
+- [Composer](https://getcomposer.org/)
+- [Node.js](https://nodejs.org/)
+- [NPM (Node Package Manager)](https://www.npmjs.com/)
+- [PHP](https://www.php.net/)
+- Database (Choose one of the following):
+  - [SQLite](https://www.sqlite.org/) (or MySQL)
+  - [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://www.wampserver.com/en/) server for PHP and MySQL.
+
+## Installation
+
+1. Clone the repository:
+
+   ```sh
+   git clone https://github.com/Thenuri/fresh-express.git
+
