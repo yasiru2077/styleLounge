@@ -24,9 +24,9 @@ This project is a comprehensive e-commerce solution with an integrated Customer 
 
 ## Features
 
-- User-friendly e-commerce website for browsing and purchasing books.
-- Advanced search functionality based on titles, authors, genres, and keywords.
-- Detailed book descriptions and availability status.
+- User-friendly e-commerce website for browsing and purchasing clothing and fashion items.
+- Advanced search functionality based on product names, brands, categories, and keywords.
+- Detailed product descriptions and availability status.
 - Secure and reliable payment options.
 - CRM system for efficient customer relationship management.
 - Centralized customer data, including contact information and purchase history.
@@ -34,6 +34,7 @@ This project is a comprehensive e-commerce solution with an integrated Customer 
 - Order management with real-time order status tracking.
 - Customer support with communication history for faster issue resolution.
 - Analytics and reporting capabilities for data-driven decision-making.
+
 # Project Name
 
 A brief description of your project.
