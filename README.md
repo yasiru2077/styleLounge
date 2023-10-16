@@ -20,8 +20,6 @@ this is a crm system for a clothing store
 
 ## Introduction
 
-## Introduction
-
 This project is a comprehensive e-commerce solution tailored for a clothing store, complete with an integrated Customer Relationship Management (CRM) system. It is designed to offer customers a seamless shopping experience for clothing and fashion items while providing businesses with the tools to efficiently manage customer relationships and sales activities.
 
 ## Features
