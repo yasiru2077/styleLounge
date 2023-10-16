@@ -41,8 +41,6 @@ This project is a comprehensive e-commerce solution tailored for a clothing stor
 
 Welcome to StyleLounge, a comprehensive Customer Relationship Management (CRM) system designed to revolutionize your clothing store's customer interactions and management. StyleLounge is a one-stop solution for enhancing your customers' experience, optimizing your sales, and gaining invaluable insights through robust analytics.
 
-## Introduction
-
 StyleLounge offers a rich set of features that cater to the needs of both customers and administrators:
 
 - **User Registration and Profile Management:** Customers can easily create accounts, edit their profiles, and provide us with insights into their preferences, enabling personalized shopping experiences.
