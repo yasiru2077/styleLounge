@@ -1,5 +1,6 @@
 # styleLounge
 this is a crm system for a clothing store
+![Group 90 (1)](https://github.com/yasiru2077/styleLounge/assets/96358931/4c89daea-753e-487b-afea-f409fe586317)
 # E-commerce Website with Integrated CRM System
 ### customer UI
 ![Project Image](https://github.com/yasiru2077/images1/blob/main/screencapture-127-0-0-1-8000-redirects-2023-10-16-19_59_47.png)
