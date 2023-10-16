@@ -50,16 +50,47 @@ Before getting started, make sure you have the following software and dependenci
   - [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://www.wampserver.com/en/) server for PHP and MySQL.
 
 ## Installation
-
-1. Clone the repository:
-
-   ```sh
-   https://github.com/yasiru2077/styleLounge.git
-2. Navigate to the CRM folder:
-   cd crm
-3. Install PHP dependencies using Composer:
+1. Clone the repository
+   ```bash
+   https://github.com/anngithub1234/SalonHair.git
+   ```
+2. Install dependencies
+   ```bash
    composer install
-4. Install JavaScript dependencies using NPM:
    npm install
+   npm run dev
+   ```
+3. Configure environment variables
+   ```bash
+   cp .env.example .env
+   ```
+4. Run Migrations
+   ```bash
+   php artisan migrate
+   ```
+5. Serve the application
+   ```bash
+   php artisan serve
+   ```
+6. Run the build
+   ```bash
+   npm run dev
+   ```
+
+## Technologies Used
+
+- Frameworks: Laravel, 
+- JavaScript Framework: Alpine.js
+- CSS Framework: Tailwind CSS
+- Application Scaffolding: Laravel Jetstream
+- Libraries: Livewire, Chart.js
+- Languages: PHP, JavaScript
+- Database: MySQL
+- Testing email functionality: MailTrap
+
+## License
+
+The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
 
 
