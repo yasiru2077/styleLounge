@@ -1,7 +1,7 @@
 ![Group 90 (1)](https://github.com/yasiru2077/styleLounge/assets/96358931/4c89daea-753e-487b-afea-f409fe586317)
 # styleLounge
 this is a crm system for a clothing store
-# E-commerce Website with Integrated CRM System
+# E-commerce Clothing Website with Integrated CRM System
 ### customer UI
 ![Project Image](https://github.com/yasiru2077/images1/blob/main/screencapture-127-0-0-1-8000-redirects-2023-10-16-19_59_47.png)
 ### Admin UI
@@ -20,7 +20,9 @@ this is a crm system for a clothing store
 
 ## Introduction
 
-This project is a comprehensive e-commerce solution with an integrated Customer Relationship Management (CRM) system. It is designed to streamline the book-selling process by providing customers with a seamless shopping experience and empowering businesses to manage customer relationships and sales activities effectively.
+## Introduction
+
+This project is a comprehensive e-commerce solution tailored for a clothing store, complete with an integrated Customer Relationship Management (CRM) system. It is designed to offer customers a seamless shopping experience for clothing and fashion items while providing businesses with the tools to efficiently manage customer relationships and sales activities.
 
 ## Features
 
