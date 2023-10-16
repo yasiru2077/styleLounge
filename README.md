@@ -2,7 +2,7 @@
 this is a crm system for a clothing store
 # E-commerce Website with Integrated CRM System
 
-![Project Image](https://github.com/krm-aadil/test/blob/main/crm.png?raw=true)
+![Project Image]([https://github.com/krm-aadil/test/blob/main/crm.png?raw=true](https://github.com/yasiru2077/images1/blob/main/screencapture-127-0-0-1-8000-redirects-2023-10-16-19_59_47.png))
 
 ## Table of Contents
 
