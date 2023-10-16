@@ -50,7 +50,7 @@ Before getting started, make sure you have the following software and dependenci
 - [NPM (Node Package Manager)](https://www.npmjs.com/)
 - [PHP](https://www.php.net/)
 - Database (Choose one of the following):
-  - [SQLite](https://www.sqlite.org/) (or MySQL)
+  - [MySQL](https://dev.mysql.com/downloads/installer/) (or MySQL)
   - [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://www.wampserver.com/en/) server for PHP and MySQL.
 
 ## Installation
