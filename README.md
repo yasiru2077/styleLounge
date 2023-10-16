@@ -75,6 +75,7 @@ Before getting started, make sure you have the following software and dependenci
    ```bash
    https://github.com/yasiru2077/styleLounge.git
    ```
+   - **Open the finalSubmittionPhp folder
 2. Install dependencies
    ```bash
    composer install
