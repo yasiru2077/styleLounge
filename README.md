@@ -1,4 +1,4 @@
-[SssSP2 (2).pdf](https://github.com/yasiru2077/styleLounge/files/12919527/SssSP2.2.pdf)![Group 90 (1)](https://github.com/yasiru2077/styleLounge/assets/96358931/4c89daea-753e-487b-afea-f409fe586317)
+![Group 90 (1)](https://github.com/yasiru2077/styleLounge/assets/96358931/4c89daea-753e-487b-afea-f409fe586317)
 # styleLounge
 this is a crm system for a clothing store
 # E-commerce Clothing Website with Integrated CRM System
