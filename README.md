@@ -73,7 +73,7 @@ Before getting started, make sure you have the following software and dependenci
 ## Installation
 1. Clone the repository
    ```bash
-   https://github.com/anngithub1234/SalonHair.git
+   https://github.com/yasiru2077/styleLounge.git
    ```
 2. Install dependencies
    ```bash
