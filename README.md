@@ -54,5 +54,5 @@ Before getting started, make sure you have the following software and dependenci
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Thenuri/fresh-express.git
+   https://github.com/yasiru2077/styleLounge.git
 
