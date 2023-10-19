@@ -63,7 +63,6 @@ Let's get started!
 Before getting started, make sure you have the following software and dependencies installed on your system:
 
 - [Composer](https://getcomposer.org/)
-- [Node.js](https://nodejs.org/)
 - [NPM (Node Package Manager)](https://www.npmjs.com/)
 - [PHP](https://www.php.net/)
 - Database (Choose one of the following):
